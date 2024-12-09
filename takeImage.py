@@ -13,7 +13,7 @@ def TakeImage(l1, l2, haarcasecade_path, trainimage_path, message, err_screen,te
         t='Please Enter the your Enrollment Number and Name.'
         text_to_speech(t)
     elif l1=='':
-        t='Please Enter the your Enrollment Number.'
+        t='Please Enter the your Enrollment Numbere.'
         text_to_speech(t)
     elif l2 == "":
         t='Please Enter the your Name.'
