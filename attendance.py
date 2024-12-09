@@ -33,7 +33,7 @@ haarcasecade_path = "haarcascade_frontalface_default.xml"
 trainimagelabel_path = (
     "/TrainingImageLabel/Trainner.yml"
 )
-trainimage_path = "TrainingImage fff dkdf "
+trainimage_path = "TrainingImage okay ji"
 if not os.path.exists(trainimage_path):
     os.makedirs(trainimage_path)
 
